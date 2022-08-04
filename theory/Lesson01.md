@@ -81,4 +81,4 @@ Enums are pretty similar to Java, the most remarkable difference is that they ar
 
 ---
 
-[Go to exercises](./Exercicies01.md) - [Next Lesson](./Lesson02.md) - [Back to main](../README.md)
+[Go to exercises](./Exercises01.md) - [Next Lesson](./Lesson02.md) - [Back to main](../README.md)
