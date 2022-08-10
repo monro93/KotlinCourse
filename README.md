@@ -5,5 +5,5 @@ Is based on examples of Java and Kotlin to make easier the transaction, but I ex
 
 ## Lessons
 * [01 - Variables and Classes](./theory/Lesson01.md)
-* [02 - Conditionals and Loops](./theory/Lesson02.md)
+* [02 - Conditionals, Loops And Nulls](./theory/Lesson02.md)
 

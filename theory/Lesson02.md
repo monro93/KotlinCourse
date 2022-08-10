@@ -1,4 +1,4 @@
-# Lesson 02 - Conditionals and Loops
+# Lesson 02 - Conditionals, Loops And Nulls
 ## T1 - if
 ### T1.1 - Basic if
 The basic if, else-if, else statement works exactly the same than in Java (and most of the languages)
@@ -45,6 +45,16 @@ The while and do-while works like any other language, and they don't have anythi
 
 [Kotlin](../src/main/kotlin/org/example/kotlinWorkshop/kotlin/lesson02/t4_while/While.kt) - [Java](../src/main/java/org/example/kotlinWorkshop/java/lesson02/t4_while/While.java)
 
+## T5 - Null
+### T5.1 - Null Chain Operator
+@TODO
+
+[Kotlin](../src/main/kotlin/org/example/kotlinWorkshop/kotlin/lesson02/t5_null/t5_1/NullChainOperator.kt) - [Java](../src/main/java/org/example/kotlinWorkshop/java/lesson02/t5_null/t5_1/NullChainOperator.java)
+
+### T5.2 - Null Coalesce Operator
+@TODO
+
+[Kotlin](../src/main/kotlin/org/example/kotlinWorkshop/kotlin/lesson02/t5_null/t5_2/NullCoalesceOperator.kt) - [Java](../src/main/java/org/example/kotlinWorkshop/java/lesson02/t5_null/t5_2/NullCoalesceOperator.java)
 
 ---
 [Go to exercises](./Exercises02.md) - [Next Lesson](./Lesson03.md) - [Previous Lesson](./Lesson01.md) - [Back to main](../README.md)
