@@ -1,8 +1,8 @@
-package org.example.kotlinWorkshop.java.lesson02;
+package org.example.kotlinWorkshop.java.lesson02.t3_for.t3_2;
 
 import java.util.List;
 
-public class CBForEach {
+public class ForEach {
   public void printAll(List<String> list) {
     for (String item: list) {
       System.out.println(item);
