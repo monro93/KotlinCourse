@@ -1,6 +1,6 @@
-package org.example.kotlinWorkshop.java.lesson02;
+package org.example.kotlinWorkshop.java.lesson02.t4_while;
 
-public class DAWhile {
+public class While {
 
   public void whileLoop() {
     int x = 5;

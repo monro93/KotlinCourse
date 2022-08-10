@@ -1,6 +1,6 @@
-package org.example.kotlinWorkshop.java.lesson02;
+package org.example.kotlinWorkshop.java.lesson02.t2_when;
 
-public class BASwitch {
+public class Switch {
   //classic java
   public void printAOn123Bon4AndCOn569OrXOtherwiseClassic(int number) {
     switch (number) {
